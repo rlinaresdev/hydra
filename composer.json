@@ -17,7 +17,8 @@
         "classmap": [
         ],
         "psr-4": {
-            "Core\\": "src/"
+            "Hydra\\": "src/System/",
+            "Hydra\\Http\\": "src/Http/"
         }
     },
     "config": {
